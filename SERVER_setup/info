@@ -1,1 +1,8 @@
-
+Configure firewall for docker containers
+Changing ssh port
+Blocking ping connection 
+Setting automatic updates
+Create ssh key pairs
+Storage configuration for sharing
+Create samba share 
+Configuring ollama for disabling gpu when not in use
