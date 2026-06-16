@@ -1,9 +1,9 @@
-Homepage
-Triliumnext notes
-Tududi
-Node red
-Gitea
-Opernweb ui
-Tandoor
-Portainer
+Homepage, 
+Triliumnext notes, 
+Tududi, 
+Node red, 
+Gitea, 
+Opernweb ui, 
+Tandoor, 
+Portainer, 
 Watchtower
